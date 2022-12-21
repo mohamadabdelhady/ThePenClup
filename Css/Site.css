@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #B1BDC5;
+}
+.main{
+    background-color: #F2ECFF;
+    min-height: 90vh;
+}
+.logo{
+    width: 200px;
+    height: 60px;
+}
